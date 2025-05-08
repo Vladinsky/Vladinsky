@@ -1,4 +1,4 @@
-# 💻 Backend Developer | Data Enthusiast
+# 💻 Backend Developer | Machine Learning Enthusiast
 
  <!-- Replace with a custom banner -->
 
@@ -22,7 +22,6 @@ Backend Developer con 2 anni di esperienza nello sviluppo di applicazioni robust
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -44,8 +43,8 @@ Backend Developer con 2 anni di esperienza nello sviluppo di applicazioni robust
 
 ### 🛠 Projects & Highlights
 
-- **[LLM](https://github.com/Vladinsky/project1)**: Esercizi con Pandas
-- **[JavaApplication](https://github.com/Vladisnky/project2)** API per la gestione di utenti con microservizi.
+- **[LLM](https://github.com/Vladinsky/DATA-FASTF1)**: Analisi dataset F1 con predizione dati sfruttando Reti Neurali
+- **[JavaApplication](https://github.com/Vladinsky/Java-Restaurant)** Sviluppo in corso...
 
 ---
 
