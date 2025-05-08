@@ -1,6 +1,13 @@
-# 💻 Backend Developer | Machine Learning Enthusiast
+![Header](https://github.com/Vladinsky/Vladinsky/blob/main/github-header-image.png?raw=true)
 
- <!-- Replace with a custom banner -->
+---
+
+<p align="center">
+  <i>"Trasformare le sfide in opportunità: il mio approccio al lavoro."</i>
+</p>
+
+---
+
 
 ## 🚀 About Me
 
@@ -25,15 +32,6 @@ Backend Developer con 2 anni di esperienza nello sviluppo di applicazioni robust
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vladinsky&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak">
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vlad-calin) <!-- Replace with your LinkedIn URL -->
@@ -46,10 +44,4 @@ Backend Developer con 2 anni di esperienza nello sviluppo di applicazioni robust
 - **[LLM](https://github.com/Vladinsky/DATA-FASTF1)**: Analisi dataset F1 con predizione dati sfruttando Reti Neurali
 - **[JavaApplication](https://github.com/Vladinsky/Java-Restaurant)** Sviluppo in corso...
 
----
 
-<p align="center">
-  <i>"Trasformare le sfide in opportunità: il mio approccio al lavoro."</i>
-</p>
-
----
